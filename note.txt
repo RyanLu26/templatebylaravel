@@ -4,3 +4,14 @@ Git Commands
 -git add .
 -git commint -m "message"
 -git push -u origin master
+
+-git remote add origin url
+-git remote rm origin
+
+
+-git remote show origin
+
+- route is လမ်းကြောင်း 
+- view
+- controller
+- Using template
